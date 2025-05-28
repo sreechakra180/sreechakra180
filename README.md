@@ -25,9 +25,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreechakra180&show_icons=true&locale=en" alt="sreechakra180" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreechakra180&" alt="sreechakra180" />
