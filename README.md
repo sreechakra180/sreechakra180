@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, JavaScript, Python, and HTML/CSS**
 
-- 📫 How to reach me **sreechakrapeddireddy@gmail.com**
+- 📫 How to reach me **sreechakrareddy@gmail.com**
 
 - ⚡ Fun fact **I love solving logic puzzles and building mini-projects!**
 
