@@ -1,8 +1,7 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Sree Chakra Reddy</h1>
 <h3 align="center">Dual-Degree Engineer | AI/ML & Quantum Tech | Building 60+ Projects</h3>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sreechakra180&label=Profile%20views&color=0e75b6&style=flat" alt="sreechakra180" /> 
 </p>
 
