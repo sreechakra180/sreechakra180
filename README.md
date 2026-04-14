@@ -1,6 +1,3 @@
-
-Here's the complete README.md code you can copy and paste:
-
 ```markdown
 <h1 align="center">Hi 👋, I'm Sree Chakra Reddy</h1>
 <h3 align="center">Dual-Degree Engineer | AI/ML & Quantum Tech | Building 60+ Projects</h3>
